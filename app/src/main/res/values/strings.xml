@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Pirate Places</string>
+    <string name="place_scitech">SciTech Building</string>
+    <string name="place_wright">The Wright Place</string>
+    <string name="place_brewster">Brewster B-201</string>
+    <string name="prev_button">PREVIOUS</string>
+    <string name="next_button">NEXT</string>
+    <string name="reset_button">RESET DATE</string>
+    <string name="last_toast">You are already on the last place</string>
+    <string name="first_toast">You are already on the first place</string>
 </resources>
